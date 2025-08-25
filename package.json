@@ -1,0 +1,8 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "build": "g++ -std=c++11 -Wall -Wextra -O2 -o cpu_scheduler cpu_scheduler.cpp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
